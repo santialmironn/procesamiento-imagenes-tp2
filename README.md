@@ -83,6 +83,6 @@ python Problema2.py
 ---
 
 **Autores del Trabajo Práctico:**
-*Justo Borras*
-*Santino Almiron Nanni*
+*Justo Borras,*
+*Santino Almiron Nanni,*
 *Wenceslao Tejerina*
