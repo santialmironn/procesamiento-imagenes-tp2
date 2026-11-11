@@ -255,7 +255,7 @@ plt.axvline(0.90, linestyle='--', color='gray', label='Límite rectangularidad: 
 plt.axhline(0.82, linestyle=':', color='black', label='Límite circularidad: 0.82')
 plt.xlabel('Rectangularidad girada (minAreaRect)')
 plt.ylabel('Circularidad')
-plt.title('Descriptores de U7: rectangularidad girada y circularidad')
+plt.title('Rectangularidad girada vs. circularidad')
 plt.legend()
 plt.grid(True)
 plt.tight_layout()
